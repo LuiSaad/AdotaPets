@@ -24,7 +24,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Adota Pets"
-        android:textColor="#ED6E46"
+        android:textColor="#F1E2DD"
         android:textSize="30sp"
         android:textStyle="bold" />
 
